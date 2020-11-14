@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Voluntario
+comment1.params=
+comment1.target=Voluntario()
+comment1.text=\r\n\ Construtores\r\n
+comment2.params=codT\ nome\ kms\ gps\ raio\ mediaclassificacao\ velocidade\ disponivel\ registoT\ certificado
+comment2.target=Voluntario(java.lang.String,\ java.lang.String,\ double,\ Coordenadas,\ double,\ double,\ double,\ boolean,\ java.util.List,\ boolean)
+comment3.params=v
+comment3.target=Voluntario(Voluntario)
+comment4.params=
+comment4.target=Voluntario\ clone()
+comment4.text=\r\n\ clone\r\n
+comment5.params=obj
+comment5.target=boolean\ equals(java.lang.Object)
+comment5.text=\r\n\ equals\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ toString\r\n
+comment7.params=x
+comment7.target=int\ compareTo(Voluntario)
+comment7.text=\r\n\ Compara\ os\ codigos\ dos\ volunt\u00E1rios\r\n
+numComments=8

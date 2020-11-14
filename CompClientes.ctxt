@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CompClientes
+comment0.text=\r\n\ Compara\ dois\ clientes\ por\ n\u00FAmero\ de\ encomendas.\ Se\ forem\ iguais,\ compara\ por\ o\ nome\ e\ se\ estes\ forem\ iguais,\ compara\ pelos\ c\u00F3digos\ de\ utilizador.\u0000\r\n\ \r\n\ @author\ Anabela\ Pereira\ -\ A87990,\ Fernando\ Lobo\ -\ A87988,\ M\u00E1rcia\ Cerqueira\ -\ A87992;\ \r\n\ @version\ 20200611\r\n
+comment1.params=a\ b
+comment1.target=int\ compare(Cliente,\ Cliente)
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CompEmpresas
+comment0.text=\r\n\ Compara\ duas\ empresas\ por\ n\u00FAmero\ de\ quil\u00F4metros\ percorridos\ (ordem\ decrescente).\ Se\ forem\ iguais,\ compara\ pelo\ nome\ e\ se\ estes\ forem\ iguais,\ compara\ pelos\ c\u00F3digos\ de\ empresa.\u0000\r\n\ \r\n\ @author\ Anabela\ Pereira\ -\ A87990,\ Fernando\ Lobo\ -\ A87988,\ M\u00E1rcia\ Cerqueira\ -\ A87992;\ \r\n\ @version\ 20200611\r\n
+comment1.params=a\ b
+comment1.target=int\ compare(Empresa,\ Empresa)
+numComments=2
